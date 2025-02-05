@@ -4,6 +4,14 @@
 
 ## Website Preview
 
+![Image](https://github.com/user-attachments/assets/a3cb2e82-4a0e-40bb-8327-7847b065f70f)
+
+![Image](https://github.com/user-attachments/assets/977440bd-3af7-4173-93ba-3406e5878ee1)
+
+![Image](https://github.com/user-attachments/assets/b29c368b-2db5-497f-b401-a419eb7aed98)
+
+![Image](https://github.com/user-attachments/assets/2961297e-970d-4874-a55c-8407c6fe2030)
+
 ## Features of the Project
 
 - **User Interface:**
@@ -12,6 +20,7 @@
   - Secured Transaction takes place between the user with the help of sessions.
   - Users must log in to access the website, and new users can sign up for an account.
   - Token authentication is considered for sending money and signup or sign in.
+  - A successful transfer message is shown to the user after the transaction is completed.
 
 ## Tech Stack
 
